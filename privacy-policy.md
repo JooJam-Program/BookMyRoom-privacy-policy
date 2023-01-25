@@ -40,7 +40,7 @@ Le Service est connecté à Google Calendar via des webhooks. Si une réservatio
 
 ## Disponibilité du service
 
-Le Service est actuellement disponible en Angleterre, en France et en Tunisie.
+Le Service est actuellement disponible disponible dans le monde entier.
 
 ## Contactez-nous
 
