@@ -45,4 +45,4 @@ Le Service est actuellement disponible disponible dans le monde entier.
 ## Contactez-nous
 
 Si vous avez des questions sur cette politique de confidentialité, n'hésitez pas à nous contacter.<br>
-Email: Pierre@cosavostra.com
+Email: Jamil@cosavostra.com
